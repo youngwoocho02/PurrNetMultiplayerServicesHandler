@@ -1,0 +1,20 @@
+{
+  "name": "PurrNet.MultiplayerServices.Runtime",
+  "rootNamespace": "PurrNet.MultiplayerServices",
+  "references": [
+    "PurrNet.Runtime",
+    "PurrNet.Purrnity.Runtime",
+    "Unity.Services.Multiplayer",
+    "Unity.Networking.Transport",
+    "Unity.Collections"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
